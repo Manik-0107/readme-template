@@ -1,10 +1,16 @@
 <!--markdown tutorial-->
+### 1. Normal text and new line
 Manik Mondal<br/>
 This is second line
 
+<br/>
 
+### 2. Horizontal Rule
 ---
 
+<br/>
+
+### 3. Heading
 # Manik Mondal
 
 ## Manik Mondal
@@ -17,20 +23,35 @@ This is second line
 
 ###### Manik Mondal
 
+<br/>
+
+### 4. Paragraph
 <p>This is Manik Mondal. I am 20 years old. I am studying in UG program in Shivaji University</p>
 
+<br/>
+
+### 5. Italic Style
 <i>This is an Italic text</i>  <!--html tag <i> -->
 _This is an Italic text_  
 
 __This is an Italic text__
 
+<br/>
+
+### 6. Delete Symbol
 <del>This is </del> <!--html tag <del> -->  
 ~~Manik~~  
 
+<br/>
+
+### 7. Inline code block
 <!--Inline code block-->
 `This is inline`  
 `<h1>Bangladesh</h1>`
 
+<br/>
+
+### 8. Multiple line code block
 <!--Multiple line code block-->
 ```html
 <html>
@@ -49,8 +70,11 @@ head{
 console.log('hello')
 ```
 
+<br/>
+
+### 9. List
 <!--List-->
-### Order list
+### i. Order list
 1. Item1
 2. Item2
    1. Item1.1
@@ -59,7 +83,7 @@ console.log('hello')
 
 <br/>
 
-### unorder list
+### ii. unorder list
 - Item1
 - Item2
     - Item2.1
@@ -68,14 +92,14 @@ console.log('hello')
 
 <br/>
 
-### Task List
+### iii. Task List
 - [x] Task1
 - [x] Task2
 - [x] Task3
 
 <br/>
 
-### Link
+### 10. Link
 1. Automatic Link  
   http://www.google.com
 
@@ -96,7 +120,7 @@ console.log('hello')
 
 <br/>
 
-### 14. Image
+### 11. Image
 ![profile](./Image/manik.jpg)
 
 <!-- html syntax -->
@@ -104,12 +128,12 @@ console.log('hello')
 
 <br/>
 
-### 15. Emoji
+### 12. Emoji
 😆
 
 <br/>
 
-### 16. Table
+### 13. Table
 
 |Name | Email |
 |------ | ------|
