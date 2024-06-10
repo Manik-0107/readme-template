@@ -110,3 +110,10 @@ console.log('hello')
 <br/>
 
 ### 16. Table
+
+|Name | Email |
+|------ | ------|
+|Manik Mondal | manik@gmail.com |
+|Manik Mondal | manik@gmail.com |
+|Manik Mondal | manik@gmail.com |
+|Manik Mondal | manik@gmail.com |
