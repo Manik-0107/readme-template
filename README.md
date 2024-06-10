@@ -34,24 +34,27 @@ This is second line
 <i>This is an Italic text</i>  <!--html tag <i> -->
 _This is an Italic text_  
 
+<br/>
+
+### 6. Bold Style
 __This is an Italic text__
 
 <br/>
 
-### 6. Delete Symbol
+### 7. Delete Symbol
 <del>This is </del> <!--html tag <del> -->  
 ~~Manik~~  
 
 <br/>
 
-### 7. Inline code block
+### 8. Inline code block
 <!--Inline code block-->
 `This is inline`  
 `<h1>Bangladesh</h1>`
 
 <br/>
 
-### 8. Multiple line code block
+### 9. Multiple line code block
 <!--Multiple line code block-->
 ```html
 <html>
@@ -72,7 +75,7 @@ console.log('hello')
 
 <br/>
 
-### 9. List
+### 10. List
 <!--List-->
 ### i. Order list
 1. Item1
@@ -99,7 +102,7 @@ console.log('hello')
 
 <br/>
 
-### 10. Link
+### 11. Link
 1. Automatic Link  
   http://www.google.com
 
@@ -120,7 +123,7 @@ console.log('hello')
 
 <br/>
 
-### 11. Image
+### 12. Image
 ![profile](./Image/manik.jpg)
 
 <!-- html syntax -->
@@ -128,12 +131,12 @@ console.log('hello')
 
 <br/>
 
-### 12. Emoji
+### 13. Emoji
 😆
 
 <br/>
 
-### 13. Table
+### 14. Table
 
 |Name | Email |
 |------ | ------|
